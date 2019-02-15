@@ -226,8 +226,10 @@ input[type=submit] {
 
 @media screen and (max-width: 768px) {
 
-  .main-section {
+  .container {
     background:#ffffff; 
+    width: 50%;
+    height: 50%;
   }
 }
 
@@ -237,6 +239,7 @@ input[type=submit] {
     background: #ffffff;
     font-size: 12px;;
   }
+
   img {
     width: 50%;
   }
